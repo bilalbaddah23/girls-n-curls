@@ -1,0 +1,166 @@
+{
+  "brand": "Girls n’ Curls",
+  "contactMode": "whatsapp",
+  "phone": "96170600480",
+  "displayPhone": "+961 70 600 480",
+  "instagram": "https://www.instagram.com/girlsncurlsboutique/",
+  "hours": "Confirm current visiting hours with the boutique",
+  "hero": "/images/photo-79d8d5f1335624bb.jpg",
+  "story": "/images/photo-8dda4a1fb9b24c02.jpg",
+  "galleryImages": [
+    "/images/photo-79d8d5f1335624bb.jpg",
+    "/images/photo-eb6e4da42bbf1652.jpg",
+    "/images/photo-14e01753f3584f5c.jpg",
+    "/images/photo-37f8f3949976b0d5.jpg",
+    "/images/photo-491b1c5aa71f7f7c.jpg",
+    "/images/photo-546ee4e21be35730.jpg",
+    "/images/photo-39dc30e45a5da17e.jpg",
+    "/images/photo-52103d9c6cdc1c5a.jpg",
+    "/images/photo-ccb5a18ec7e2583d.jpg",
+    "/images/photo-904ddb80004ed102.jpg",
+    "/images/photo-8dda4a1fb9b24c02.jpg",
+    "/images/photo-db369b2a1691acea.jpg"
+  ],
+  "products": [
+    {
+      "id": "ivory-hood-trim-cardigan",
+      "name": "Ivory Hood Trim Cardigan",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory zip-front cardigan with a light fluffy-looking hood trim, styled with blue jeans. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-79d8d5f1335624bb.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeeaFA1DMZs/"
+    },
+    {
+      "id": "bright-striped-knit",
+      "name": "Bright Striped Knit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A loose blue knit with red and light stripes, styled with dark shorts. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-eb6e4da42bbf1652.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeeaCH1DBVe/"
+    },
+    {
+      "id": "chocolate-button-cardigan",
+      "name": "Chocolate Button Cardigan",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark brown long-sleeved button-front cardigan, shown with white shorts. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-14e01753f3584f5c.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeeZ_UmjD28/"
+    },
+    {
+      "id": "taupe-belted-peplum-layer",
+      "name": "Taupe Belted Peplum Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe collared outer layer with a tie waist and a flared lower shape, styled with a light skirt and tall boots. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-37f8f3949976b0d5.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeYoRosDFly/"
+    },
+    {
+      "id": "pink-hooded-coordinated-look",
+      "name": "Pink Hooded Coordinated Look",
+      "collection": "Everyday sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale pink hooded top and coordinated jogger-style trousers, photographed from the back. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-491b1c5aa71f7f7c.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeYoBdsDF5g/"
+    },
+    {
+      "id": "cream-contrast-coordinated-look",
+      "name": "Cream Contrast Coordinated Look",
+      "collection": "Everyday sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A cream open layer with dark contrast detailing, styled with light wide-leg trousers and a white top. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-39dc30e45a5da17e.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeWnaRwDEDf/"
+    },
+    {
+      "id": "brown-wide-leg-coordinated-look",
+      "name": "Brown Wide Leg Coordinated Look",
+      "collection": "Everyday sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark brown cropped collared top and wide-leg trousers, shown in three outdoor views. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-ccb5a18ec7e2583d.jpg",
+        "/images/photo-904ddb80004ed102.jpg",
+        "/images/photo-8dda4a1fb9b24c02.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeUb6S9s7G0/"
+    },
+    {
+      "id": "red-zip-coordinated-look",
+      "name": "Red Zip Coordinated Look",
+      "collection": "Everyday sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A bright red zip-front collared top with matching-looking wide-leg trousers. Confirm the exact item, fit, colour, current availability and price with the boutique. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-db369b2a1691acea.jpg"
+      ],
+      "source": "https://www.instagram.com/girlsncurlsboutique/p/DeRvlfhM49U/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
